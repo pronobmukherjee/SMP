@@ -1586,8 +1586,8 @@
 				INFOPLIST_FILE = "SMP3Demo/SMP3Demo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP3Demo/libraries/Debug-universal/**",
-					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP3Demo/libraries/Release-universal/**",
+					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP/SMP3Demo/libraries/Debug-universal/**",
+					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP/SMP3Demo/libraries/Release-universal/**",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
@@ -1604,8 +1604,8 @@
 				INFOPLIST_FILE = "SMP3Demo/SMP3Demo-Info.plist";
 				LIBRARY_SEARCH_PATHS = (
 					"$(inherited)",
-					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP3Demo/libraries/Debug-universal/**",
-					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP3Demo/libraries/Release-universal/**",
+					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP/SMP3Demo/libraries/Debug-universal/**",
+					"/Users/pronob/Documents/PRONOB/SAP/SMPWorkspace/SMP/SMP3Demo/libraries/Release-universal/**",
 				);
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
