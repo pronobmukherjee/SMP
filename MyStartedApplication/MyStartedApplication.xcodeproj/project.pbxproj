@@ -1115,6 +1115,9 @@
 				LastUpgradeCheck = 0500;
 				ORGANIZATIONNAME = BSIL;
 				TargetAttributes = {
+					715378C118E16A57000DD61E = {
+						DevelopmentTeam = SQW233BJ2V;
+					};
 					715378E518E16A57000DD61E = {
 						TestTargetID = 715378C118E16A57000DD61E;
 					};
@@ -1465,6 +1468,7 @@
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyStartedApplication/MyStartedApplication-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
@@ -1497,6 +1501,7 @@
 				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "MyStartedApplication/MyStartedApplication-Prefix.pch";
 				HEADER_SEARCH_PATHS = (
